@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimSkylines</string>
+    <string name="author">Anurag Singh</string>
+    <string name="start_game_opt">Start Game</string>
+    <string name="settings_opt">Settings</string>
+    <string name="set_button">Set</string>
+</resources>
