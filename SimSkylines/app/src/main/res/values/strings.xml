@@ -3,5 +3,18 @@
     <string name="author">Anurag Singh</string>
     <string name="start_game_opt">Start Game</string>
     <string name="settings_opt">Settings</string>
-    <string name="set_button">Set</string>
+    <string name="reset_opt">Regenerate Map</string>
+    <string name="settings_reset_opt">Reset Settings</string>
+    <string name="demolish_button">Demolish On️</string>
+    <string name="build_button">️Demolish Off</string>
+    <string name="gametime_button">Time++</string>
+    <string name="game_time">Time: %1$d</string>
+    <string name="money">"Money: $%1$s"</string>
+    <string name="income">"Income: $%1$s"</string>
+    <string name="people">"People: %1$d"</string>
+    <string name="cost">$%1$d</string>
+    <string name="employment">"Rate: %1$s%%"</string>
+    <string name="ok_button">Ok</string>
+    <string name="coordinates">Row: %1$d, Col: %2$d</string>
+    <string name="type">Type: %1$s</string>
 </resources>
